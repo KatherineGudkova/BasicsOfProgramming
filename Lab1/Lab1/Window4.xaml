@@ -1,0 +1,17 @@
+﻿<Window x:Class="Lab1.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab1"
+        mc:Ignorable="d"
+        Title="Window4" Height="450" Width="800">
+    <Grid Background="#FFD3ECE9">
+        <Label Content="ІНФОРМАЦІЯ ПРО РОЗРОБНИКА" Margin="50,20,50,305" FontSize="40" FontWeight="Bold"/>
+        <Label Content="ПІБ: Гудкова Катерина Олексiївна" Margin="30,90,130,250" FontSize="36"/>
+        <Label Content="Група: КП-13" Margin="30,170,129,170" FontSize="36"/>
+        <Label Content="Рік створення програми: 2022" Margin="30,240,129,100" FontSize="36"/>
+        <Button x:Name="ToMainWindow" Content="ГОЛОВНА СТОРІНКА" Margin="30,340,475,40" RenderTransformOrigin="0.641,0.829" Background="White" FontSize="20" Click="ToMainWindow_Click"/>
+        <Button x:Name="Exit" Content="ВИХІД З ПРОГРАМИ" Margin="475,340,30,40" Background="#FFE8B3B3" FontSize="20" Click="Exit_Click"/>
+    </Grid>
+</Window>
