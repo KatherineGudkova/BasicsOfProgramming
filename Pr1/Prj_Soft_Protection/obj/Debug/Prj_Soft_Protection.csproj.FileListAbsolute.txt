@@ -1,0 +1,38 @@
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\MainWindow.g.cs
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\ProtectionModeWindow.g.cs
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\StudyModeWindow.g.cs
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\App.g.cs
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection_MarkupCompile.cache
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection_MarkupCompile.lref
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\bin\Debug\Prj_Soft_Protection.exe.config
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\bin\Debug\Prj_Soft_Protection.exe
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\bin\Debug\Prj_Soft_Protection.pdb
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\MainWindow.baml
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\ProtectionModeWindow.baml
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\StudyModeWindow.baml
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.g.resources
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.Properties.Resources.resources
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.csproj.GenerateResource.cache
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.csproj.CoreCompileInputs.cache
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.exe
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.pdb
+C:\Users\4labs\Downloads\Telegram Desktop\Prj_Soft_Protection\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.csprojAssemblyReference.cache
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\bin\Debug\Prj_Soft_Protection.exe.config
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\bin\Debug\Prj_Soft_Protection.exe
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\bin\Debug\Prj_Soft_Protection.pdb
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.csproj.AssemblyReference.cache
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\MainWindow.g.cs
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\ProtectionModeWindow.g.cs
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\StudyModeWindow.g.cs
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\App.g.cs
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection_MarkupCompile.cache
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection_MarkupCompile.lref
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\MainWindow.baml
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\ProtectionModeWindow.baml
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\StudyModeWindow.baml
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.g.resources
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.Properties.Resources.resources
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.csproj.GenerateResource.cache
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.csproj.CoreCompileInputs.cache
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.exe
+C:\Users\olyam\OneDrive\Рабочий стол\кпи\оп 2\Prj_Soft_Protection\Prj_Soft_Protection\obj\Debug\Prj_Soft_Protection.pdb
