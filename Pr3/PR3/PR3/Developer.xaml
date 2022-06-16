@@ -1,0 +1,16 @@
+﻿<Window x:Class="PR3.Developer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR3"
+        mc:Ignorable="d"
+        Title="Інформація про розробника" Height="350" Width="550">
+    <Grid Background="#FFE9E9EA">
+        <Label Content="ІНФОРМАЦІЯ ПРО РОЗРОБНИКА ПЗ" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <Label Content="ПІБ: Гудкова Катерина Олексіївна&#xD;&#xA;Група: КП-13&#xD;&#xA;Назва ПЗ: Розроблення програми розмежування повноважень &#xD;&#xA;користувачів на основі парольної автентифікації &#xD;&#xA;Назва роботи: Практична робота №3 &#xD;&#xA;Контактні дані: &#xD;&#xA;Email - kikigudkova@gmail.com &#xD;&#xA;Telegram - @kkata1ina" 
+               FontSize="16" Margin="10,40,10,90"  VerticalAlignment="Top" Background="#FFDEDEDE"/>
+        <Button x:Name="ToMainWindow" Content="НА ГОЛОВНУ СТОРІНКУ" Margin="10,230,10,0" FontSize="16" Background="#FFD4F7AC"  VerticalAlignment="Top" Height="35" Click="ToMainWindow_Click"/>
+        <Button x:Name="Exit" Content="ВИХІД З ПРОГРАМИ" Margin="10,270,10,0" FontSize="16" Background="#FFEFA4A4"  VerticalAlignment="Top" Height="35" Click="Exit_Click"/>
+    </Grid>
+</Window>

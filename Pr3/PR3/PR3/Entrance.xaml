@@ -1,0 +1,18 @@
+﻿<Window x:Class="PR3.Entrance"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR3"
+        mc:Ignorable="d"
+       Title="Entrance" Height="200" Width="350">
+    <Grid Background="#FFE9E9EA">
+        <Label Content="ВХІД" FontSize="18" FontWeight="Bold" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label Content="ЛОГІН" Margin="40,35,0,0" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Left" />
+        <Label Content="ПАРОЛЬ" Margin="40,80,0,0" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Left" />
+        <TextBox x:Name="Login" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="20" Margin="130,40,40,0"/>
+        <PasswordBox x:Name="Password" MaxLength="20" PasswordChar="*" VerticalAlignment="Top" FontSize="20" Margin="130,83,40,0"/>
+        <Button x:Name="OK" Content="OK" Margin="40,125,248,0" Background="#FFD4F7AC" VerticalAlignment="Top" Click="OK_Click" FontSize="17"/>
+        <Button x:Name="ToMainWindow" Content="ГОЛОВНА СТОРІНКА" Margin="107,125,40,0" FontSize="17" Background="#FFEFA4A4" VerticalAlignment="Top" Click="ToMainWindow_Click"/>
+    </Grid>
+</Window>
