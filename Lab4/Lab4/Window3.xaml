@@ -1,0 +1,15 @@
+﻿<Window x:Class="Lab4.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4"
+        mc:Ignorable="d"
+        Title="Window3" Height="450" Width="1050">
+    <Grid>
+        <DataGrid x:Name="Tab3" FontSize="14" VerticalAlignment="Top" Height="345" Margin="10,10,10,0"/>
+        <Button x:Name="ToMainWindow" Content="ГОЛОВНА СТОРІНКА" Margin="10,360,535,0" Background="#FF78FCFF" VerticalAlignment="Top" Click="ToMainWindow_Click" Height="35"/>
+        <Button x:Name="Exit" Content="ВИХІД" Margin="535,360,10,0" Background="#FFEF6262" VerticalAlignment="Top" Click="Exit_Click" Height="35"/>
+
+    </Grid>
+</Window>
