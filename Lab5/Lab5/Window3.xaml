@@ -1,0 +1,29 @@
+﻿<Window x:Class="Lab5.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab5"
+        mc:Ignorable="d"
+        Title="Window3" Height="650" Width="1050">
+    <Grid>
+        <DataGrid x:Name="Tab3" FontSize="14" VerticalAlignment="Top" Height="345" Margin="10,10,10,0"/>
+        <Button x:Name="ToMainWindow" Content="ГОЛОВНА СТОРІНКА" Margin="10,573,535,0" Background="#FF78FCFF" VerticalAlignment="Top" Click="ToMainWindow_Click" Height="29" FontSize="14"/>
+        <Button x:Name="Exit" Content="ВИХІД" Margin="535,573,10,0" Background="#FFEF6262" VerticalAlignment="Top" Click="Exit_Click" Height="29" FontSize="14"/>
+        <Label Content="ПРІЗВИЩЕ:" Margin="10,370,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="14"/>
+        <TextBox x:Name="SurnameAd" VerticalAlignment="Top" TextWrapping="Wrap" Text="" Margin="96,370,0,0" FontSize="14" HorizontalAlignment="Left" Width="250" Height="29" Background="#FFE9E9E9"/>
+        <Label Content="ІМ'Я:" Margin="355,370,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="14"/>
+        <TextBox x:Name="NameAd" VerticalAlignment="Top" TextWrapping="Wrap" Text="" Margin="405,370,0,0" FontSize="14" HorizontalAlignment="Left" Width="250" Height="29" Background="#FFE9E9E9"/>
+        <Label Content="ПО БАТЬКОВІ:" Margin="670,370,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="14"/>
+        <TextBox x:Name="SecnameAd" VerticalAlignment="Top" TextWrapping="Wrap" Text="" Margin="775,370,0,0" FontSize="14" HorizontalAlignment="Left" Width="250" Height="29" Background="#FFE9E9E9"/>
+        <Label Content="АДРЕСА:" Margin="10,409,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="14"/>
+        <TextBox x:Name="AddressAd" VerticalAlignment="Top" TextWrapping="Wrap" Text="" Margin="96,409,0,0" FontSize="14" HorizontalAlignment="Left" Width="929" Height="29" Background="#FFE9E9E9"/>
+        <Label Content="НОМЕР ТЕЛЕФОНУ:" Margin="10,448,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="14"/>
+        <TextBox x:Name="PhoneNumberAd" VerticalAlignment="Top" TextWrapping="Wrap" Text="" Margin="149,448,0,0" FontSize="14" HorizontalAlignment="Left" Width="366" Height="29" Background="#FFE9E9E9"/>
+        <Label Content="ІДЕНТИФІКАТОР ДЛЯ ВИДАЛЕННЯ:" Margin="10,510,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="14"/>
+        <TextBox x:Name="IDAdvertisersDel" VerticalAlignment="Top" TextWrapping="Wrap" Text="" Margin="245,510,0,0" FontSize="14" HorizontalAlignment="Left" Width="270" Height="29" Background="#FFE9E9E9"/>
+        <Button x:Name="AddTab3" Content="ДОДАТИ ІНФОРМАЦІЮ" VerticalAlignment="Top" Margin="535,445,10,0" Height="32" Background="#FFE1FBB5" FontSize="14" Click="AddTab3_Click" />
+        <Button x:Name="DeleteTab3" Content="ВИДАЛИТИ ІНФОРМАЦІЮ" VerticalAlignment="Top" Margin="535,510,10,0" Height="29" Background="#FFFDBDBD" FontSize="14" Click="DeleteTab3_Click"/>
+
+    </Grid>
+</Window>
