@@ -1,0 +1,16 @@
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2.csproj.AssemblyReference.cache
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2.csproj.SuggestedBindingRedirects.cache
+D:\КПІ\Pr2\Pr2\obj\Debug\MainWindow.g.cs
+D:\КПІ\Pr2\Pr2\obj\Debug\App.g.cs
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2_MarkupCompile.cache
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2_MarkupCompile.lref
+D:\КПІ\Pr2\Pr2\bin\Debug\Pr2.exe.config
+D:\КПІ\Pr2\Pr2\bin\Debug\Pr2.exe
+D:\КПІ\Pr2\Pr2\bin\Debug\Pr2.pdb
+D:\КПІ\Pr2\Pr2\obj\Debug\MainWindow.baml
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2.g.resources
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2.Properties.Resources.resources
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2.csproj.GenerateResource.cache
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2.csproj.CoreCompileInputs.cache
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2.exe
+D:\КПІ\Pr2\Pr2\obj\Debug\Pr2.pdb
